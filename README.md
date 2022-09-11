@@ -1,6 +1,5 @@
 ### Olá me chamo Pollyana Oliveira!! 👋
 
-<!--
 **PollyanaOliveira1983/PollyanaOliveira1983** 
 ✨ Bem vindo ao meu perfil GitHub ✨ 
 
