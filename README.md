@@ -15,7 +15,7 @@ Atualmente em transição de carreira:
   <img height="160em" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyanaOliveira1983&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-</div>
+</div align="center">
   <style="display: inline_block"><br>
   <code><img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
